@@ -2,6 +2,6 @@
 
 Etapes :
 
-[x] Maquettes
+- [x] Maquettes
 
-[ ] Développement
+- [ ] Développement
