@@ -5,7 +5,7 @@ function Menu() {
   return (
     <div className="menu">
       <a href="/">
-        Amelien <br />
+        Amélien <br />
         BERNARD
       </a>
       <a href="/contact">Contact</a>
